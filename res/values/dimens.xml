@@ -1,0 +1,7 @@
+<?xml version="1.0" encoding="utf-8"?>
+<resources>
+
+    <dimen name="dialog_msg_min_height">90dp</dimen>
+    <dimen name="dialog_msg_min_width">300dp</dimen>
+
+</resources>
